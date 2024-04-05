@@ -1,16 +1,4 @@
-Haii : https://ixoneryu.github.io/IXONE-RYU/
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>IXONE PLAYER</title>
-  <link rel="stylesheet" href="styles.css">
-  <script src="script.js"></script>
-
-</head>
-<body>
 
         <header>
             <h1>IXONE RYU</h1>
@@ -34,8 +22,5 @@ Haii : https://ixoneryu.github.io/IXONE-RYU/
                     <img src="fikri/WhatsApp Image 2024-04-05 at 3.17.20 PM.jpeg">
                     <hr>
             </font>
-    <p>&copy; FIKRI</p>
-  </footer>
+    <p>&copy;Hak CIpta : FIKRI</p>
 
-</body>
-</html>
